@@ -5,15 +5,25 @@ The aim of this project is to design a personalized Student dashboard website th
 
 # Features:
 a) User Sign Up
+
 b) User Authentication
+
 c) Login Facility
+
 d) Personalized Home page for each User
+
 e) Forums
+
 f) Blogs
+
 g) Document manager
+
 h) Course manager
+
 i) Events
+
 j) Email Client
+
 
 # Roles:
 Student:
