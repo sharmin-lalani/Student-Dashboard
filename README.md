@@ -43,11 +43,13 @@ Student:
  Document Manager: Upload, share, view, edit, delete and download documents. The documents could be study material, exam solutions, etc.
 
 
+
 Teacher: All features are same as for student, except for:
 
  Assignment: Publish assignments, Evaluate them and add remarks
 
  Document Manager: Upload, share, view, edit, delete and download documents. The documents could be study material, exam solutions, notices, lecture schedule, etc.
+
 
 
 Admin:
