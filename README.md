@@ -34,12 +34,13 @@ Student:
     Blog: Blog and allow commenting the blog
     Email: View/send e-mails
     Assignment: Submit assignments and view the results of assignments/exams
-    Document Manager: Upload, share, view, edit, delete and download documents. The documents could be study material, exam solutions, etc.
+    Document Manager: Upload, share, view, edit, delete and download documents. 
 
 Teacher: All features are same as for student, except for:
 
     Assignment: Publish assignments, Evaluate them and add remarks
-    Document Manager: Upload, share, view, edit, delete and download documents. The documents could be study material, exam solutions, notices, lecture schedule, etc.
+    Document Manager: Upload, share, view, edit, delete and download documents. 
+    The documents could be study material, exam solutions, notices, lecture schedule, etc.
 
 Admin:
 
@@ -50,16 +51,17 @@ Admin:
 # Technologies used:
 Languages:
 
- PHP
+    PHP
+    HTML + CSS
+    JavaScript
+    Ajax
 
- HTML + CSS
+Database: 
 
- JavaScript
+    MySql
 
- Ajax
+Server: 
 
-Database: MySql
-
-Server: Apache
+    Apache
 
 
